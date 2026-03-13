@@ -63,32 +63,21 @@ This project demonstrates a complete Retrieval-Augmented Generation pipeline usi
 ### 🚀 Key Achievements
 
 ✅ Full RAG pipeline implementation
+
 ✅ Automatic transcript extraction from YouTube
+
 ✅ Vector similarity search with FAISS
+
 ✅ LLM-powered contextual answers
+
 ✅ Interactive Streamlit web interface
+
 ✅ Custom UI design with CSS
+
 ✅ Real-time question answering
+
 ✅ Expandable architecture for other content sources
 
-### 📁 Project Structure
-youtube-rag-assistant/
-│
-├── app.py                    # Streamlit application
-├── requirements.txt         # Project dependencies
-├── README.md                # Project documentation
-│
-├── rag_pipeline/
-│   ├── transcript_loader.py
-│   ├── text_splitter.py
-│   ├── embeddings.py
-│   └── rag_chain.py
-│
-├── vector_store/
-│   └── faiss_index
-│
-└── assets/
-    └── screenshots
 ### ✨ Features
 🧠 AI & RAG Features
 
