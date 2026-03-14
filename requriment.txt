@@ -1,7 +1,7 @@
 streamlit
-langchain
-langchain-community
-langchain-core
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.36
 langchain-text-splitters
 langchain-huggingface
 faiss-cpu
