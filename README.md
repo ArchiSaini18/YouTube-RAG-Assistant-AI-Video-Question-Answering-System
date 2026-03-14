@@ -18,6 +18,11 @@ The system automatically:
 
 - Built with LangChain, FAISS, HuggingFace Models, and Streamlit.
 
+## 🚀 Live Application
+
+👉 Direct View / Try the App:
+https://youtube-rag-assistant-ai-video-question-answering-system-vygvt.streamlit.app/
+
 ### 🎯 Quick Links
 
 - Overview
